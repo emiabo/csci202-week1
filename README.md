@@ -1,0 +1,5 @@
+# CSCI 202 Assignment 1 - Hypertext Narrative
+## thesis > antithesis > synthesis
+This turned out a little odd for what I think the assignment was looking for, but I think it worked out considering the time crunch. Originally I was going to just discuss my journey and quite possibly at this point, indecisiveness through university. But I realized I've told versions of that story before, and I'm tired of it and pretending I have it all figured out from here on. So the concept here is split between "academic/professional" steps in my life, and "personal/hobbies/social" life on the right. The way I thought to do this without any CSS (surprisingly limiting!) was a table. Recommended to view on a narrower window size, because it gets a little stretched on wider viewports and I don't think a set width can be done without CSS.
+
+The inspiration links for the assignment seemed neat, and who knows, I might try something more ambitious like that in the future. I don't know why I never considered that entire choose-your-own-adventure type stories could be written entirely using plain HTML hyperlinks, rather than JS page manipulation.
